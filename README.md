@@ -1,8 +1,6 @@
-# rcdeskpilot
-R/C Desk Pilot is a R/C flight simulator for Windows. You can get it at http://rcdeskpilot.com.
+# Red Cross RC Sim
+This program is based on R/C Desk Pilot (http://rcdeskpilot.com)
 
 It's based on a custom game engine written in C#, based on managed DirectX 9.0c.
 
-You'll need Visual Studio 2015 to compile it. Other than that, the repository should contain all required resources.
-
-You can contact me at info@rcdeskpilot.com.
+You can contact us at redcrossrc220@gmail.com
