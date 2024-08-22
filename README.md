@@ -1,4 +1,4 @@
-<p align="center"><img src="RCRCAI.png" height="250" alt=" " /></p>
+<p align="center"><img src="RCSim/Resources/icon.png" height="250" alt=" " /></p>
 
 <h1 align="center">Red Cross RC Sim
 
