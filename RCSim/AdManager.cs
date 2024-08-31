@@ -68,7 +68,7 @@ namespace RCSim
             }
             else
             {
-                owner.WelcomeDialog.SetIntroInfo("No internet connection was found. This game works best with an active internet connection.", "website", "http://rcdeskpilot.com");
+                owner.WelcomeDialog.SetIntroInfo("Welcome to Red Cross RC Sim.", "website", "http://rcdeskpilot.com");
             }
         }
 
